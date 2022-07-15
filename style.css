@@ -1,0 +1,24 @@
+.perfil {
+    border-radius: 50%;
+    width: 100px;
+}
+
+.center {
+    margin-left: 10px;
+}
+
+hr {
+    background-color: black;
+}
+
+body {
+    background-image: url(https://brancopapeldeparede.fbitsstatic.net/img/p/papel-de-parede-degrade-azul-030-70913/239964-1.jpg?w=817&h=1108&v=no-change&qs=ignore);
+    background-repeat:repeat; 
+}
+.center{
+    margin-left: 50px;
+}
+h3{
+    text-align: center;
+}
+
